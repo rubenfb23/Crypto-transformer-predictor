@@ -8,3 +8,4 @@ tweepy>=4.0
 praw>=7.0
 plotly>=5.0
 streamlit>=1.0
+python-dotenv>=1.0
