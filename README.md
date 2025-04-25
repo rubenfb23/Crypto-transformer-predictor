@@ -40,6 +40,13 @@ Crypto-transformer-predictor/
 └── .gitignore     # Files to ignore in git
 ```
 
+## Configuration
+
+Create a `.env` file in the project root with your API secret:
+```
+BLOCKCHAIN_API_SECRET_KEY=your_secret_key_here
+```
+
 ## Installation
 
 1. Clone the repository:
