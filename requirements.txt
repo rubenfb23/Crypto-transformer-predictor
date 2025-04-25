@@ -1,1 +1,10 @@
 pytest>=7.0
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+torch>=2.0
+ccxt>=2.0
+tweepy>=4.0
+praw>=7.0
+plotly>=5.0
+streamlit>=1.0
